@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/github/last-commit/vedangdhuri/Weather-App?style=flat&logo=git&logoColor=white&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/top/vedangdhuri/Weather-App?style=flat&color=0080ff" alt=""/>
     <img src="https://img.shields.io/github/languages/count/vedangdhuri/Weather-App?style=flat&color=0080ff" alt=""/>
-    <a href="https://Weather-App.vercel.app/"><img src="https://img.shields.io/badge/Visit_Site-Weather_App-blue?style=flat&color=0080ff" alt=""/></a>
+    <a href="https://weather-app-vd69.netlify.app/"><img src="https://img.shields.io/badge/Visit_Site-Weather_App-blue?style=flat&color=0080ff" alt=""/></a>
 </div>
 <h2 align="center">Built with the tools and technologies:</h2>
 <div align="center">
